@@ -89,8 +89,8 @@ const technologies = [
 
 const experiences = [
 	{
-		title: "Web Designer",
-		company_name: "A.V.M Auto",
+		title: "Front end Developer",
+		company_name: "NorthAims Technologies",
 		icon: "/company/avm.webp",
 		iconBg: "#383E56",
 		date: "2020 -  2021",
@@ -102,7 +102,7 @@ const experiences = [
 		],
 	},
 	{
-		title: "Wordpress Developer",
+		title: "Softwarw engineering",
 		company_name: "A.V.M Auto",
 		icon: "/company/avm.webp",
 		iconBg: "#E6DEDD",
@@ -121,7 +121,7 @@ const testimonials = [
 		id: 1,
 		testimonial:
 			"Behance is a social media platform owned by Adobe whose main focus is to showcase and discover creative work.",
-		name: "Om Patel",
+		name: "Amjad Ali",
 		image: "/socialmedia/behance.svg",
 		link: "https://www.behance.net/omthecreator",
 	},
@@ -129,7 +129,7 @@ const testimonials = [
 		id: 2,
 		testimonial:
 			"LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps.",
-		name: "Om Patel",
+		name: "Amjad Ali",
 		image: "/socialmedia/linkedin.svg",
 		link: "https://www.linkedin.com/in/om-patel-401068143/",
 	},
