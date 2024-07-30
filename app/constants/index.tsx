@@ -19,7 +19,7 @@ const services = [
 		icon: "/web.webp",
 	},
 	{
-		title: "UI Designer",
+		title: "Front-end Developer",
 		icon: "/mobile.webp",
 	},
 	{
@@ -27,7 +27,7 @@ const services = [
 		icon: "/backend.webp",
 	},
 	{
-		title: "Content Creator",
+		title: "Software Engineer",
 		icon: "/creator.webp",
 	},
 ];
@@ -73,18 +73,18 @@ const technologies = [
 		name: "git",
 		icon: "/tech/git.webp",
 	},
-	{
-		name: "figma",
-		icon: "/tech/figma.webp",
-	},
-	{
-		name: "wordpress",
-		icon: "/tech/wordpress.webp",
-	},
-	{
-		name: "bootstrap",
-		icon: "/tech/bootstrap.webp",
-	},
+	// {
+	// 	name: "figma",
+	// 	icon: "/tech/figma.webp",
+	// },
+	// {
+	// 	name: "wordpress",
+	// 	icon: "/tech/wordpress.webp",
+	// },
+	// {
+	// 	name: "bootstrap",
+	// 	icon: "/tech/bootstrap.webp",
+	// },
 ];
 
 const experiences = [
