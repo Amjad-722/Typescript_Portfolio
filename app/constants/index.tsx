@@ -224,7 +224,7 @@ const projects = [
 		netlify_link: "https://hoobankbyom.netlify.app/",
 	},
 	{
-		name: "Provid A Youtube Clone",
+		name: "Provid A Thumbnail DOumlouder",
 		description:
 			"Provid is a YouTube clone project built with React, Material UI, and Tailwind CSS. The platform has been designed with a stunning dark mode that enhances the viewing experience. The user interface is intuitive and easy to navigate, ensuring that users can easily find the content they're looking for.",
 		tags: [
