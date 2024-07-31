@@ -153,7 +153,7 @@ const testimonials = [
 		id: 5,
 		testimonial:
 			"Also do check out my Github Profile where I have shared all my codes from basic to advanced.",
-		name: "Om Patel",
+		name: "Amjad ALi",
 		image: "/tech/github.webp",
 		link: "https://github.com/omunite215",
 	},
@@ -170,7 +170,7 @@ const projects = [
 				color: "blue-text-gradient",
 			},
 			{
-				name: "bootstrap",
+				name: "Tailwind",
 				color: "pink-text-gradient",
 			},
 			{
