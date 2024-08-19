@@ -32,7 +32,7 @@ const ServiceCard = ({ index, title, icon }: ServiceCardProps) => {
               alt={title}
               className="w-16 h-16 object-contain"
             />
-            <h3 className="text-white text-[20px] font-bold text-center">
+            <h3 className="text-slate-300 text-[20px] font-bold text-center">
               {title}
             </h3>
           </div>
