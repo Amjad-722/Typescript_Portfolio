@@ -51,8 +51,8 @@ const Navbar = () => {
 							className="object-contain bg-tertiary"
 						/>
 					</Link>
-					<p className="text-white text-[18px] font-bold cursor-pointer flex">
-						A&nbsp; <span className="sm:block hidden ">| Amjad</span>
+					<p className="text-blue-400  text-[18px] font-extrabold text-7xl  cursor-pointer flex">
+						<span className="font-extrabold text-3xl">A</span>&nbsp; <span className="sm:block font-extrabold text-3xl hidden  ">| Amjad</span>
 					</p>
 				</div>
 
