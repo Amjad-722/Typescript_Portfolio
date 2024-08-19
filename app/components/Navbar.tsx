@@ -41,14 +41,14 @@ const Navbar = () => {
 						window.scrollTo(0, 0);
 					}}
 				>
-					<Link href="https://github.com/omunite215">
+					<Link href="https://github.com/Amjad-722">
 						<Image
 							src="/logo.png"
-							width={80}
-							height={80}
+							width={90}
+							height={90}
 							alt="logo"
 							priority
-							className="object-contain"
+							className="object-contain bg-tertiary"
 						/>
 					</Link>
 					<p className="text-white text-[18px] font-bold cursor-pointer flex">
