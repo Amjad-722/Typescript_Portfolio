@@ -10,7 +10,7 @@ const ResumeButton = () => {
 		>
 			<button
 				type="button"
-				className=" font-medium text-center px-3 py-3 flex gap-1 justify-center rounded-md transition ease-in-out delay-150 bg-[#915EFF] hover:-translate-y-1 hover:scale-110 hover:bg-purple-600 duration-300"
+				className=" font-medium text-center px-3 py-3 flex gap-2 justify-center rounded-md transition ease-in-out delay-150 bg-[#915EFF] hover:-translate-y-1 hover:scale-110 hover:bg-purple-600 duration-300"
 				onClick={() =>
 					alert(
 						"Not Available",
